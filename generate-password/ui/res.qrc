@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>visibility_off_white_24dp.svg</file>
+    <file>visibility_white_24dp.svg</file>
+    <file>pin_black_24dp.svg</file>
+    <file>password_black_24dp.svg</file>
+    <file>password_white_24dp.svg</file>
+    <file>save_white_24dp.svg</file>
+    <file>content_copy_white_24dp.svg</file>
+    <file>rotate_right_white_24dp.svg</file>
+    <file>file_open_white_24dp.svg</file>
+    <file>key_white_24dp.svg</file>
+    <file>pin_white_24dp.svg</file>
+  </qresource>
+</RCC>
