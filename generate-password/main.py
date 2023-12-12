@@ -2,7 +2,8 @@ import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QLineEdit
 import buttons
 import password
-from ui.ui_main import Ui_MainWindow
+# from ui.ui_main import Ui_MainWindow
+from ui.generate import Ui_MainWindow
 
 
 class PasswordGenerator(QMainWindow):

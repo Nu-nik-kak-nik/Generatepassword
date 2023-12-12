@@ -27,10 +27,14 @@
     <normaloff>:/icons/password_black_24dp.svg</normaloff>:/icons/password_black_24dp.svg</iconset>
   </property>
   <property name="styleSheet">
-   <string notr="true">QWidget {
-  	color: white;
-  	background-color: #1d1d1d;
+   <string notr="true">* {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+QWidget {
+  	color: white;  	
 	font-family: Verdana;
+	background-color: #1d1d1d;
 	font-size: 12pt;
 	margin: 0px;
 }
